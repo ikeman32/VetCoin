@@ -1,0 +1,2 @@
+# vetcoin
+scrypt based crypocurrency
