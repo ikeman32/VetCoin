@@ -6,3 +6,4 @@ sudo apt install software-properties-common -y
 sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt update
 sudo apt install libdb4.8-dev libdb4.8++-dev -y
+sudo apt install libminiupnpc-dev -y
